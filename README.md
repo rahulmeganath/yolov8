@@ -48,7 +48,7 @@ Speed = Distance (in pixels) / Time (in seconds)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/yolo-flask-app.git
+git clone https://github.com/rahulmeganath/yolo-flask-app.git
 cd yolo-flask-app
 ```
 
