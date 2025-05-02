@@ -75,3 +75,15 @@ docker build -t yolo-flask-app .
 ```
 docker run -p 5000:5000 yolo-flask-app
 ```
+
+## Future Improvements
+
+  -  Real-world speed (m/s) via camera calibration
+
+  -  Drawn polygons for flexible region definitions
+
+  -  Chart dashboard (counts/speed over time)
+
+  -  Support for live webcam and RTSP/IP camera input
+
+  -  Store results in a database
