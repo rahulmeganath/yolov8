@@ -48,3 +48,30 @@ Speed = Distance (in pixels) / Time (in seconds)
 ```bash
 git clone https://github.com/yourusername/yolo-flask-app.git
 cd yolo-flask-app
+
+### 2. Create Virtual Environment
+
+```
+python -m venv yolov8-env
+#Activate:
+yolov8-env\Scripts\activate
+```
+### 3. Install Dependencies
+```
+pip install -r requirements.txt
+```
+### 3. Run the Flask App
+
+```
+python app.py
+```
+
+### Run Using Docker
+## 1. Build the Docker Image
+```
+docker build -t yolo-flask-app .
+```
+## 2. Run the Container
+```
+docker run -p 5000:5000 yolo-flask-app
+```
