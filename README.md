@@ -29,6 +29,7 @@ Speed is calculated using:
 
 ```text
 Speed = Distance (in pixels) / Time (in seconds)
+```
 
 ---
 
