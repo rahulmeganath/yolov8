@@ -3,6 +3,8 @@
 A real-time web-based surveillance system for **object detection**, **object tracking**, **region-wise counting**, and **speed estimation** using **YOLOv8**. The system is built using **Flask** and containerized with **Docker** for easy deployment.
 
 ---
+## 🎥 Sample Output Video
+[Watch or download the output video](https://drive.google.com/file/d/1fDaA2xdCKDzefGRvRBOLKf2GRG_XzYIu/view?usp=sharing)
 
 ## 🎯 Features
 
