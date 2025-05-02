@@ -48,9 +48,9 @@ Speed = Distance (in pixels) / Time (in seconds)
 ```bash
 git clone https://github.com/yourusername/yolo-flask-app.git
 cd yolo-flask-app
+```
 
 ### 2. Create Virtual Environment
-
 ```
 python -m venv yolov8-env
 #Activate:
